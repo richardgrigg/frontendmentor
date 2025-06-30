@@ -49,6 +49,7 @@ main {
     padding: 25px;
     box-shadow: 10px 10px #000000;
     border: solid 1px #000000;
+    margin-top: 60px;
 }
 
 .publish-date {
